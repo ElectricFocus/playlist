@@ -1,17 +1,45 @@
 h1{
-    position:Absolute;
-    font-size:100px;
-    left:750px;
+    text-align:center;
     
 }
 
 .p1{
-   position:Absolute;
-   top:200px;
-   left:380px;
+   display:flex;
+   justify-content:space-between;
+   align-items:center;
 }
 
 body{
   background-image:url("https://lh3.googleusercontent.com/2ovmlKNj9yIn4f0rhLMP_is5-IX7mZemCQdJ6N4weeOBJu4KTGEU3Nhf9arvzBzTU4eEe1zRQI6m6H5OYO4QfVhqJ8m4huBm_gu_iuDqu8lQgWWdhvW54VK4NDpYUsrZ-duOeAv8IQ=w2400 ");
 
 }
+/*.song{ 
+    position:absolute;
+    left:300px;
+    top:280px;
+} */
+.dad{
+    display:flex;
+    justify-content:space-between;
+}
+/*.artist{
+    position:absolute;
+    left:350px;
+    top:280px;
+}
+.slength{
+    position:absolute;
+    left:400px;
+    top:280px;
+}
+.iurl{
+    position:absolute;
+    left:450px;
+    top:280px;
+}
+.sladdress{
+    position:absolute;
+    left:500px;
+    top:280px;
+}
+
